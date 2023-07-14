@@ -1,14 +1,14 @@
-# Genetic_prediction_project
+![image](https://github.com/aryasheth119/Genetic_prediction_project/assets/136325404/5eec9510-7db9-43de-b737-2166e05ba8d5)# Genetic_prediction_project
 
 README.md -> Introduce the purpose of your project and provide your findings and next steps to go. Also, add a link to your data source.
 
 Questions that will be answered 
-1. Which is the most common genetic disorder
-2. How was the disorder confirmed
-3. Regions where it is more common
-4. Which chromosome is most likely to be affected
-5. What was the diagnostic test used to confirm it (predictive value and reliability)
-6. What criteria were set to do this test
-7. What is the most common pattern for the test
-8. Is it single or multi gene
-9. Chances of getting a single and multi-gene defect
+Why is there a need for such a model?
+Which genes cause the most disorders?
+What is the most common genetic disorder
+Probability of getting the most common disorder seen in the data set
+Probability of getting a defect in the most commonly mutated gene
+Probability of getting a disorder based on the location of the mutation
+Prognosis possible?
+
+
