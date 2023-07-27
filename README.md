@@ -2,7 +2,7 @@
 The purpose of the project was to find out the most common genetic disorder(based on information available in the dataset), and the genes responsible for causing the disorder. Along with that, finding the most common disorders and most common genes to have a defect was a secondary aim of the project. Finally, finding the probabilities of the above mentioned issues was the most significant purpose of the project.
 The file gene_condition_source_id.csv was downloaded from National Institute of Health, ClinVar, which is a freely accessible, public archive of reports of the relationships among human variations and phenotypes, with supporting evidence. ClinVar facilitates access to and communication about the relationships asserted between human variation and observed health status, and the history of that interpretation.
 
-# About the dataset (link https://ftp.ncbi.nlm.nih.gov/pub/clinvar/)
+About the dataset (link https://ftp.ncbi.nlm.nih.gov/pub/clinvar/)
 The sources of information for the gene-disease relationship include OMIM, GeneReviews, and a limited amount of curation by NCBI staff. This document is updated daily, and is provided to report gene-disease relationships used in ClinVar, Gene, GTR and MedGen. The scope of disorders reported in this file is a subset of the disease_names file because a gene-to-disease relationship is required.  Explaination of terms mentioned in this data:
 
 GeneID:               The NCBI GeneID
