@@ -16,6 +16,7 @@ DiseaseMIM:           MIM number for the condition caused by the genes
 LastUpdated:          Last time the record was modified by NCBI 
 
 Questions that will be answered 
+
 1. Which is the most common genetic disorder? -> Cardiomyopathy, which is a disease of the heart muscle that makes it harder for the heart to pump blood to the rest of the body
 2. Which Gene  is most likely to cause a disorder? -> The Gene ID causing the maximum number of diseases is 1280
 3. Is Cardiomyopathy caused my associated genes or related gene?s -> It is caused by related genes. This proves that the chances of getting Cardiomyopathy at birth are very less. It is mostly acquired over time, The symptoms are elevated due to external factors
@@ -36,4 +37,5 @@ Limitations:
 The conclusions drawn in this project are limited to the dataset used and may not reflect the full spectrum of genetic disorders that exist in reality. Therefore, these conclusions should not be considered as medical references. The dataset used may not cover all known genes and their associated disorders, potentially leading to an incomplete picture of genetic disorders' prevalence and impacts.
 The dataset was clean but contained null values for where the defect was on one gene(Either on Associated gene or Related gene). the null values did not affect the results in any way.
 A more detailed dataset would have helped to create a machine-learning, model to predict if a baby would have any serious genetic disorder with a non-invasive method of diagnosis
+
 
